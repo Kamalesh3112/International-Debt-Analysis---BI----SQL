@@ -22,3 +22,6 @@ You can find the data source here :  https://drive.google.com/file/d/1s1nZf3s4DJ
 
 # Microsoft PowerBI visualizatuon Work ( International Debt Statistics ) : https://app.powerbi.com/groups/me/reports/9c7696eb-508d-443a-a44a-1dbe3bfd9d18/ReportSection
 
+![power-BI-1030x579](https://user-images.githubusercontent.com/72293918/135707333-88e96486-2315-4177-bb2b-64356fdab2b0.png)
+
+
