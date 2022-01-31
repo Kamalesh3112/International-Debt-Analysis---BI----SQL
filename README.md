@@ -24,4 +24,6 @@ You can find the data source here :  https://drive.google.com/file/d/1s1nZf3s4DJ
 
 ![power-BI-1030x579](https://user-images.githubusercontent.com/72293918/135707333-88e96486-2315-4177-bb2b-64356fdab2b0.png)
 
+![image](https://user-images.githubusercontent.com/72293918/151752898-95eef370-072f-43d0-9f08-5ab204e41114.png)
+
 
